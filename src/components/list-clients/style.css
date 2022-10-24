@@ -1,0 +1,44 @@
+.content-table {
+  margin: 20px auto;
+  width: 80%;
+  padding: 10px;
+}
+
+.content-table button {
+  border: none;
+  background-color: transparent;
+  border-bottom: 1px solid #003f69;
+  color: #003f69;
+  cursor: pointer;
+}
+
+.content-table thead {
+  color: white;
+  text-align: left;
+  padding-left: 20px;
+  background-color: #003f69;
+}
+
+thead tr td {
+  border: none;
+  padding: 0.5em;
+}
+
+tbody tr td {
+  padding: 0.5em;
+  border-bottom: 1px solid black;
+}
+
+.listClients {
+  width: 100%;
+}
+
+.btn-icon {
+  color: #003f69;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.btn-icon:hover {
+  color: #011725;
+}
